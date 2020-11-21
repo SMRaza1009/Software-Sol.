@@ -1,0 +1,133 @@
+#title{
+  font-family: 'Karla', sans-serif;
+  background-color:#000000;
+}
+/* Navigation Bar */
+.navbar-brand{
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 3rem;
+}
+.nav-item{
+  font-size: 1.25rem;
+}
+
+/* Background Image */
+.bg-image{
+  height: 100%;
+  width: 100%;
+}
+.main-heading{
+font-family: 'Karla', sans-serif;
+  font-size: 3rem;
+  padding: 10% 5%;
+  line-height: 1.5;
+  text-align: center;
+  color:#fff;
+}
+
+/* About Us Section */
+.aboutus-container{
+  padding: 7% 6%;
+}
+.aboutus-heading{
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  text-align: center;
+}
+.aboutus-image{
+  height: 80%;
+  width: 75%;
+}
+h3{
+    font-family: 'Karla', sans-serif;
+  font-weight: bold;
+    font-size: 2rem;
+}
+.aboutus-text{
+    padding: 7% 6%;
+    font-family: 'Karla', sans-serif;
+    line-height: 1.5;
+    font-size: 1.05rem;
+    text-align: center;
+  }
+.para-text{
+  padding-top: 2%;
+  }
+  /* Services Section */
+  .servies-container{
+    padding: 7% 6%;
+    background-color: #000000;
+    color:#fff;
+    text-align: center;
+  }
+.services-heading{
+  font-family: 'Karla', sans-serif;
+    line-height: 1.5;
+font-weight: bold;
+  font-size: 3.5rem;
+  padding-bottom: 3%;
+}
+/* Testimonials Section */
+#testimonials{
+  background-color: #000000;
+  color:#fff;
+    padding: 7% 6%;
+    text-align: center;
+
+}
+.testimonial-text{
+  font-size: 2rem;
+  line-height: 1.5;
+}
+.testimonials-image{
+  height: 60%;
+  width: 20%;
+  border-radius: 100%;
+  margin: 3%;
+}
+
+/* Pricing Section */
+#pricing
+{
+    padding: 7% 6%;
+    text-align: center;
+}
+.pricing-container{
+  font-family: 'Karla', sans-serif;
+    line-height: 1.5;
+font-weight: bold;
+  font-size: 1.5rem;
+}
+
+/* Contact us Form */
+.contactus-container{
+    padding: 7% 6%;
+    background-color: #000000;
+    color:#fff;
+    font-family: 'Karla', sans-serif;
+      line-height: 1.5;
+  font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.contactus-heading{
+  text-align: center;
+  font-size: 3rem;
+}
+
+
+/* Footer Section */
+#footer{
+    padding: 7% 6%;
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+      line-height: 1.5;
+    font-size: 1rem;
+}
+.social-icon{
+  margin: 20px 10px;
+}
